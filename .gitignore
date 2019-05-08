@@ -6,4 +6,8 @@
 
 *.pdf
 
+*.png
+
+*.csv
+
 .ipynb_checkpoints
